@@ -1,0 +1,12 @@
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/bin/Debug/netstandard2.0/ØresundbroenLibrary.deps.json
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/bin/Debug/netstandard2.0/ØresundbroenLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/bin/Debug/netstandard2.0/ØresundbroenLibrary.pdb
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/bin/Debug/netstandard2.0/BilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/bin/Debug/netstandard2.0/BilletLibrary.xml
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.csprojAssemblyReference.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.csproj.CoreCompileInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.AssemblyInfoInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.AssemblyInfo.cs
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.csproj.CopyComplete
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/oresundbilletlibrary-sebkirller/ØresundbroenLibrary/obj/Debug/netstandard2.0/ØresundbroenLibrary.pdb
