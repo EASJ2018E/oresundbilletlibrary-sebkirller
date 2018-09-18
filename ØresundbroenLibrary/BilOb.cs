@@ -16,7 +16,6 @@ namespace ØresundbroenLibrary
         public DateTime Dato { get; set; }
         public bool Brobizz { get; set; }
 
-
         public override string Køretøj() => "Øresund Bil";
         public override decimal Pris() => !Brobizz ? 410 : 161;
     }
